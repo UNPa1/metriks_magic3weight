@@ -8,8 +8,6 @@ This project aims to use MatrixLab's 1-unit badge on a matrix magic 3 60% keyboa
 
 ## Technical information
 
-
-
 ## Renders and Prototypes
 
 ### Render
@@ -22,10 +20,4 @@ This project aims to use MatrixLab's 1-unit badge on a matrix magic 3 60% keyboa
 
 #### Compatibility
 
-## PCB order procedure
-
-### Production files
-
-## Mainboard
-
-#### Assembly options
+-MATRIX LAB : Magic 3 2023, 60% (6xv special edition)
